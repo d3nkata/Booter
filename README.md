@@ -1,7 +1,7 @@
 # Booter
 pip3 install requests pysocks
 
-git clone github.com/d3nkata/Booter.git
+git clone https://github.com/d3nkata/Booter/
 
 cd Booter
 
